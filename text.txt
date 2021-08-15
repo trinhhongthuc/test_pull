@@ -1,2 +1,6 @@
 trinh honh thc
+<<<<<<< HEAD
 them nahanhdsadasdsadadsa
+=======
+them nahanhdấdasdasdasdadas
+>>>>>>> run
